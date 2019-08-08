@@ -103,7 +103,7 @@
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="สำนักงานคณะกรรมการการเลือกตั้ง"
+        android:text="สำนักงานคณะกรรมการเลือกตั้ง"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
